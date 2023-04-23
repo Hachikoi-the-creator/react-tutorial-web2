@@ -1,12 +1,12 @@
 # MUST KNOW 
-## 1 - useState
+## 1 - useState OK
 ### Basics
 Make 2 buttons & 2 functions that change the state
 - Start -> `git checkout use-state--start`
 - Solution -> `git checkout use-state--end`
 
 
-## 2 - useRef
+## 2 - useRef OK
 ### Basics
 Change values in the program without re-renders (testing with console log)
 - Start -> `git checkout use-ref--start`
