@@ -12,7 +12,7 @@ Change values in the program without re-renders (testing with console log)
 - Start -> `git checkout use-ref--start`
 - Solution -> `git checkout use-ref--end`
 
-## 3 - useState & useRef
+## 3 - useState & useRef OK  
 Use one of each in a way that we can see changes in the screen
 - Start -> `git checkout state-ref--start`
 - Solution -> `git checkout state-ref-end`
