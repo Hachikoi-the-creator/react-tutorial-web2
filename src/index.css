@@ -68,3 +68,8 @@ button:focus-visible {
 .btn-2 {
   margin-left: 2rem;
 }
+
+input {
+  display: block;
+  margin: 0.6rem 0;
+}
