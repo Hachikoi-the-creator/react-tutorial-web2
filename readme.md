@@ -17,7 +17,7 @@ Use one of each in a way that we can see changes in the screen
 - Start -> `git checkout state-ref--start`
 - Solution -> `git checkout state-ref-end`
 
-## 4 - useEffect
+## 4 - useEffect OK 
 ### Basics
 make a request to `https://jsonplaceholder.typicode.com/todos/1` when the page loads & store it in useState
 - Start -> `git checkout use-effect--start`
