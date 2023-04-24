@@ -9,16 +9,16 @@ Make 2 buttons & 2 functions that change the state
 ## 2 - useRef OK
 ### Basics
 Change values in the program without re-renders (testing with console log)
-- `$ git checkout use-ref`
+- `$ git checkout use-ref-basics`
 
 ## 3 - useState & useRef OK  
 Use one of each in a way that we can see changes in the screen
-- `$ git checkout state-ref`
+- `$ git checkout state-ref-basics`
 
 ## 4 - useEffect OK 
 ### Basics
 make a request to `https://jsonplaceholder.typicode.com/users` when the page loads & store it in useState
-- `$ git checkout use-effect`
+- `$ git checkout use-effect-basics`
 
 
 # Extra hooks
