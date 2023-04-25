@@ -1,24 +1,17 @@
 **Currently only the MUST KNOW are implemented** 
 
 # MUST KNOW 
-## 1 - useState OK
-### Basics
+## 1 - useState
 Make 2 buttons & 2 functions that change the state
-- `$ git checkout use-state-basics`
 
-## 2 - useRef OK
-### Basics
+## 2 - useRef 
 Change values in the program without re-renders (testing with console log)
-- `$ git checkout use-ref-basics`
 
-## 3 - useState & useRef OK  
+## 3 - useState & useRef 
 Use one of each in a way that we can see changes in the screen
-- `$ git checkout state-ref-basics`
 
-## 4 - useEffect OK 
-### Basics
+## 4 - useEffect 
 make a request to `https://jsonplaceholder.typicode.com/users` when the page loads & store it in useState
-- `$ git checkout use-effect-basics`
 
 
 # Extra hooks
